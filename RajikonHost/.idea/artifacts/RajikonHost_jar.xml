@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RajikonHost:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RajikonHost_jar</output-path>
+    <root id="archive" name="RajikonHost.jar">
+      <element id="module-output" name="RajikonHost" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/bridj-0.7-20140918.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slf4j-api-1.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/webcam-capture-0.3.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slf4j-jdk14-1.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jcodec-0.1.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
